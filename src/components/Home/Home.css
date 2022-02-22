@@ -1,0 +1,25 @@
+.header {
+  background-color: rgb(3, 3, 151);
+  margin: 0;
+  padding: 5px;
+  color: white;
+}
+
+form {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.items {
+  margin: auto;
+  padding: 10px;
+  align-content: center;
+  align-items: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
